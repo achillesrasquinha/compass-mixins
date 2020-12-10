@@ -1,16 +1,9 @@
 {
-  "name": "compass-mixins",
-  "version": "0.12.10",
-  "author": {
-    "name": "Guillaume Balaine",
-    "email": "igosuki@gmail.com",
-    "url": "https://github.com/Igosuki"
-  },
+  "name": "@achillesrasquinha/compass-mixins",
+  "version": "0.12.11",
+  "author": "Guillaume Balaine <igosuki@gmail.com> (https://github.com/Igosuki)",
   "contributors": [
-    {
-      "name": "Michael Heillein",
-      "url": "https://github.com/michaek"
-    }
+    "Michael Heillein (https://github.com/michaek)"
   ],
   "description": "Compass stylesheets",
   "repository": {
@@ -39,5 +32,13 @@
     "chalk": "^0.5.1",
     "jasmine-node": "^1.14.5",
     "node-sass": "^3.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Igosuki/compass-mixins/issues"
+  },
+  "homepage": "https://github.com/Igosuki/compass-mixins#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
